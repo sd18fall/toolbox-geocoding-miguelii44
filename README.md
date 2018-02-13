@@ -2,4 +2,4 @@
 
 Geocoding and Web APIs Project Toolbox starter code
 
-Full instructions are on [the toolbox page](https://toolboxes.olin.build/web-apps/).
+Full instructions are on [the toolbox page](https://sd18spring.github.io/toolboxes/web-apps/).
